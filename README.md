@@ -120,12 +120,15 @@ This project supports face swapping on full video sequences using classical comp
 
 📺 Below are short samples from the full pipeline:
 
-| Description       | Demo |
-|-------------------|------|
-| 🎯 Original Video | [target_video.mp4](outputs/face_swapping/target_video.mp4) |
-| 🧑 Source Face     | ![Source](outputs/face_swapping/source_image.jpg) |
-| 🌀 Swapped Output | [swapped_output.mp4](outputs/face_swapping/swapped_output.mp4) |
-| 🌀 Swapped Output frame | [swapped_frame.png](outputs/face_swapping/swapped_frame.png) |
+## 🎭 Face Swapping on Video (Proof of Concept)
+
+| Description              | Preview |
+|--------------------------|---------|
+| 🧑 Source Face            | ![](outputs/face_swapping/source_image.jpg) |
+| 🎯 Original Video (GIF)   | ![](outputs/face_swapping/target_video(GIF).gif) |
+| 🌀 Swapped Output (GIF)   | ![](outputs/face_swapping/swapped_output_preview(GIF).gif) |
+| 🌀 Swapped Output Frame   | ![](outputs/face_swapping/swapped_frame.png) |
+
 
 > *Note: Blending artifacts are expected in classical methods. Future versions may include DL-based enhancements.*
 
