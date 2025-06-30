@@ -47,3 +47,28 @@ This project is an end-to-end deep learning pipeline that performs both **deepfa
    ```bash
    !kaggle datasets download -d jessicali9530/celeba-dataset
    !kaggle datasets download -d ciplab/real-and-fake-face-detection
+
+3. Run the notebook `deepfake_pipeline.ipynb` step-by-step
+
+4. Outputs include:
+   - GAN-generated face images
+   - Training vs validation loss plots
+   - Trained CNN classifier results
+
+---
+
+## 📊 Outputs
+
+- ✅ Generated face images from **CelebA**
+- ✅ Loss plots for training vs validation
+- ✅ Best model checkpoint saved during classifier training
+- ✅ Accuracy metrics for deepfake detection using real vs fake dataset
+
+---
+
+## 🙋‍♂️ Author
+
+**Siddhant Roy**  
+Minor Project 2 — Deepfake Detection  
+📧 Contact: [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)
+
