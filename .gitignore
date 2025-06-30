@@ -1,0 +1,19 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore model weights and large files
+*.pth
+*.pt
+*.ckpt
+
+# Ignore compressed dataset files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore output folder (optional if outputs are large or personal)
+outputs/
